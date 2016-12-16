@@ -1,0 +1,1 @@
+This is an Android application built for movie lovers to search for details about their favorite movies.
